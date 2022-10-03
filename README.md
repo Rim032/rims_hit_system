@@ -1,4 +1,5 @@
-#[RHS] Rim's Hit System
+**[RHS] Rim's Hit System**
+
 [----Purpose----]
 
 This mod for GMod is meant to replicate a more realistic damage system, than the default one, in which each part of the body takes different amounts of damage.
