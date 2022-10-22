@@ -24,6 +24,7 @@ hook.Add("PostGamemodeLoaded", "rhs_sv_backup_load", function()
             include("rhs/server/sv_rhs_main.lua")
             include("rhs/server/sv_rhs_hurtA.lua")
             include("rhs/server/sv_rhs_hurtB.lua")
+            include("rhs/server/sv_rhs_hurtC.lua")
         
             MsgC(Color(69, 140, 255), "##[Rim's Hit System: Server Initialized]##\n")
         end
