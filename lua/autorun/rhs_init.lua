@@ -1,5 +1,5 @@
 rhs = {}
-rhs.version = 1.35
+rhs.version = 1.36
 rhs.build_date = "10/16/2022"
 
 if SERVER then
