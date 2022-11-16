@@ -37,8 +37,6 @@ net.Receive("rhs_send_ply_rank", function(len, ply)
 end)
 
 function rhs_svs_menu()
-    ply = LocalPlayer()
-
     if is_user_allowed == true then
         base_frame = vgui.Create( "DFrame" )
         base_frame:SetSize(ScrW()/4.8, ScrH()/4.91)
